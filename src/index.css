@@ -15,7 +15,7 @@ h5 {
 }
 h5:hover {
   color: grey;
-  transform: scale(1 5);
+  transform: scale(1);
   transition: all 200ms ease;
 }
 #btn {
